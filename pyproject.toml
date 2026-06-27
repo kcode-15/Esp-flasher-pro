@@ -1,0 +1,11 @@
+[project]
+name = "espflash"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "flet>=0.84.0",
+    "socketpool>=0.5.3",
+    "typer>=0.24.1",
+    "wifi>=0.3.8",
+]
