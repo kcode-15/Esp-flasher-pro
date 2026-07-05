@@ -21,7 +21,7 @@ fi
 # 3. Create a symbolic link in the user's local binary path
 # This allows typing "espflasher" from any terminal window
 INSTALL_DIR="$HOME/.local/bin"
-TARGET_SCRIPT="$(pwd)/your_script_name.py" # Replace with your actual filename
+TARGET_SCRIPT="$(pwd)/install.py"
 
 echo "Creating installation directory..."
 mkdir -p "$INSTALL_DIR"
