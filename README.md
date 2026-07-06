@@ -10,13 +10,21 @@ Esp flasher pro is a usefull tool used to flash demo projects and your own files
 
 
 
-
-
-
 # setup
 to setup run
 
-``` gh repo clone kcode-15/Esp-flasher-pro ```
+``` git clone https://github.com/kcode-15/Esp-flasher-pro/Esp-flasher-pro.git```
 
-and then to run the script in the directory run
-``` python3 main.py ```
+and then to open the directory
+``` cd Esp-flasher-pro ```
+
+then install
+
+``` bash install.sh ```
+
+To run the tool run
+
+``` espflasher ```
+
+
+
