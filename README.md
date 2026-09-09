@@ -22,6 +22,8 @@ then install
 
 ``` bash install.sh ```
 
+or run install_esp_flasher.pkg (macOS only for this installation method)
+
 To run the tool run
 
 ``` espflasher ```
